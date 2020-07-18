@@ -1,7 +1,7 @@
 # Go Web 开发较通用的脚手架模板 </br>
-### 大型Go Web项目CLD分层 </br>
+### 大型Web项目CLD分层 </br>
 <img src="https://github.com/Brighteststars/web_app/blob/master/images/serve.png" /> </br></br>
-
+## 项目有以下主要分层 </br>
 ### 1. 加载配置 </br>
 ### 2. 初始化日志 </br>
 ### 3. 初始化Mysql连接 gorm第三方库 </br>
